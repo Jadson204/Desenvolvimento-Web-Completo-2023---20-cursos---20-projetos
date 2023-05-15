@@ -1,0 +1,26 @@
+.conteudo {
+    background: blue;
+    width: 200px;
+    height: 200px;
+    border: 1px solid gray;
+    margin: 10px;
+    float: right;
+}
+
+/*.conteudo1 {
+    background: red;
+    width: 200px;
+    height: 200px;
+    border: 1px solid gray;
+    float: left;
+}*/
+
+/*Limpar o fluxo flutuante*/
+.clear {
+    clear: both;
+}
+
+#principal {
+    border: 5px solid red;
+    background: green;
+}
