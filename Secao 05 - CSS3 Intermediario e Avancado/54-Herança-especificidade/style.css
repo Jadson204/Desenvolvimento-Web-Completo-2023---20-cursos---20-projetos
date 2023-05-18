@@ -1,0 +1,9 @@
+#pagina {
+    color: blue;
+}
+
+p {
+    color: red !important;
+}
+
+h2.verde {}
