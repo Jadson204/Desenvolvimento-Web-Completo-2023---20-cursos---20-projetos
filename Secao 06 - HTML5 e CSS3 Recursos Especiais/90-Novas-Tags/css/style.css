@@ -13,3 +13,16 @@ nav {
 footer {
     background: #ccc;
 }
+    
+article {
+    background: orange;
+}
+
+section {
+    border: 1px dotted #fff;
+    padding: 10px;
+}
+
+aside {
+    background: blue;
+}
